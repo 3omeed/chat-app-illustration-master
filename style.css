@@ -146,14 +146,14 @@ header::after {
   right: 15px;
   bottom: 19px;
 }
-.container .first-section .body {
+.container .first-section main {
   padding: 10px;
   position: relative;
   display: flex;
   flex-direction: column;
 }
 
-.container .first-section .body .pink {
+.container .first-section main .pink {
   width: fit-content;
   max-width: 60%;
   border-radius: 10px;
@@ -164,7 +164,7 @@ header::after {
   color: #be3ffe;
   background-color: #ede5f4;
 }
-.container .first-section .body .white {
+.container .first-section main .white {
   max-width: 60%;
   margin-bottom: 10px;
   font-weight: 500;
