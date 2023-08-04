@@ -237,18 +237,18 @@ header::after {
 }
 
 .chat-message-box::after {
-    content: "\f105";
-    font-family: "font awesome 6 Free";
-    font-weight: 900;
-    font-size: 1rem;
-    position: absolute;
-    right: 5px;
-    top: 50%;
-    transform: translateY(-50%);
-    background-color: black;
-    color: white;
-    padding: 7px;
-    border-radius: 50%;
+  content: '\f105';
+  font-family: 'font awesome 6 Free';
+  font-weight: 900;
+  font-size: 1rem;
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: black;
+  color: white;
+  padding: 7px;
+  border-radius: 50%;
 }
 .chat-message-box p {
   color: #aaa7af;
@@ -261,22 +261,20 @@ header::after {
 /* second section */
 
 .second-section {
-    max-width: 450px;
+  max-width: 450px;
 }
 .second-section h2 {
-    font-size: 2.7rem;
-    font-weight: 500;
-    margin-bottom: 15px;
-    text-decoration: none;
+  font-size: 2.7rem;
+  font-weight: 500;
+  margin-bottom: 15px;
+  text-decoration: none;
 }
 
 .second-section p {
-    color: #aaa7af;
-    line-height: 30px;
-    font-weight: 500;
-    
+  color: #aaa7af;
+  line-height: 30px;
+  font-weight: 500;
 }
-
 
 .attribution {
   font-size: 11px;
@@ -289,33 +287,32 @@ header::after {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-
 @media (max-width: 925px) {
-    body {
-        overflow: scroll;
-    }
+  body {
+    overflow: scroll;
+  }
 
-    body::before {
-        min-width: 300px;
-        left: -150px;
-    }
-    body::after {
-        display: none;
-    }
-    .container {
-        text-align: center;
-        margin: 20px auto;
-
-    }
-    .container .first-section {
-        margin-bottom: 50px;
-    }
-    .container .second-section {
-        margin-bottom: 50px;
-    }
+  body::before {
+    min-width: 300px;
+    left: -150px;
+  }
+  body::after {
+    display: none;
+  }
+  .container {
+    text-align: center;
+    margin: 20px auto;
+  }
+  .container .first-section {
+    margin-bottom: 50px;
+  }
+  .container .second-section {
+    margin-bottom: 50px;
+  }
 }
 
-@media (min-width: 880px) ,(max-width: 1030px) {
-    .container {gap: 40px}
+@media (min-width: 880px), (max-width: 1030px) {
+  .container {
+    gap: 40px;
+  }
 }
