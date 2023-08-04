@@ -21,7 +21,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 I should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
+- View the optimal layout for the component depending on the device's screen size
 - **Bonus**: See the chat interface animate on the initial load
 
 ### Screenshot
@@ -45,18 +45,18 @@ I should be able to:
 
 ### What I learned
 
-I learned keeping on practice my CSS and HTML, this was my first intermediate challenge in my life, it was hard actually
+I learned keeping on practice my CSS and HTML, this was the first intermediate challenge in my life, and it was hard actually
 the best part is the chat interface and how to make it responsive for small screens.
 
 ### Continued development
 
-I want in the future to add JS code to this project to make it more dynamic and also want to add animation to the chat interface.
-don't hesitate to leave your feedback and your comment on my project helping me improve its code.
+I want in the future to add JS code to this project to make it more dynamic also want to add animation to the chat interface.
+please don't hesitate to leave your feedback and comment on my project helping me improve the code.
 
 ### Useful resources
 
 - [MDN](https://developer.mozilla.org/en-US/)
-- [W3SCHOOLS](https://www.w3schools.com/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3SCHOOLS](https://www.w3schools.com/) - This is an amazing article that helped me finally understand some features. I'd recommend it to anyone still learning.
 
 ## Author
 
